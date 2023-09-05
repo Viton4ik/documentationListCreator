@@ -1,7 +1,10 @@
 # documentationListCreator
 documentationListCreator (GST documentation)
 
-
+## Usage
+The code creates an xls file with links for the technical documentation of the site. 
+## Important
+The names and folder hierarchy have to be as they are!!!
 
 ## Views
 
